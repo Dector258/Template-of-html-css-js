@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Overpass+Mono');
+
+*
+{
+  font-family: 'Covered By Your Grace', 'Overpass Mono', monospace;
+}
+
+body
+{
+  margin: 0;
+}
+
+ /* CSS */
